@@ -13,7 +13,7 @@ Save whatsapp msgs Also if they are deleted
    ```bash
    cd whatsapp-capture
    npm init -y
-   npm install install
+   npm install 
 
 
 
